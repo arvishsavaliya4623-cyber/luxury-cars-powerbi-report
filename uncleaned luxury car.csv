@@ -1,0 +1,501 @@
+Make,model,year,engineSize,fuelType,transmission,mileage,mpg,tax,price
+Porsche,Cayenne,2022,3,Petrol,Manual,17741,26,570,99624
+BMW,M5 CS,2023,4.4,Petrol,Automatic,29003,25,600,160760
+Land Rover,Range Rover Sport,2022,3,Diesel,Manual,19076,28,580,95993
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,29830,20,630,179834
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,7093,26,570,97637
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,24638,26,570,100681
+Toyota,Land Cruiser,2019,3.3,Diesel,Semi-Automatic,17121,27,560,84514
+Toyota,Land Cruiser,2019,3.3,Diesel,Semi-Automatic,26768,27,560,84881
+Lamborghini,Urus,2019,4,Petrol,Automatic,14890,22,650,218658
+Lamborghini,Urus,2019,4,Petrol,Manual,37786,22,650,222714
+Lamborghini,Urus,2019,4,Petrol,Automatic,11353,22,650,224121
+Porsche,Cayenne,2020,3,Petrol,Manual,31386,26,570,101614
+Lamborghini,Urus,2023,4,Petrol,Automatic,25550,22,650,217966
+Lamborghini,Urus,2019,4,Petrol,Automatic,23190,22,650,224747
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,29879,26,570,97476
+Land Rover,Range Rover Sport,2020,3,Diesel,Manual,19780,28,580,93706
+Land Rover,Range Rover Sport,2023,3,Diesel,Semi-Automatic,15542,28,580,91175
+Land Rover,Range Rover Sport,2023,3,Diesel,Manual,13395,28,580,91963
+Lamborghini,Urus,2019,4,Petrol,Manual,9860,22,650,218319
+Mercedes-Benz,G Wagon,2022,4,Petrol,Manual,10149,20,630,176637
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,9092,26,570,102742
+BMW,M5 CS,2023,4.4,Petrol,Automatic,12225,25,600,165893
+Porsche,Cayenne,2021,3,Petrol,Manual,20195,26,570,102146
+Mercedes-Benz,G Wagon,2023,4,Petrol,Manual,7076,20,630,184238
+Land Rover,Range Rover Sport,2023,3,Diesel,Manual,8271,28,580,91100
+Mercedes-Benz,G Wagon,2020,4,Petrol,Manual,22066,20,630,179861
+Mercedes-Benz,G Wagon,2019,4,Petrol,Automatic,34050,20,630,183976
+BMW,M5 CS,2022,4.4,Petrol,Automatic,20777,25,600,168056
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,11538,45,320,50390
+Lamborghini,Urus,2022,4,Petrol,Automatic,23342,22,650,215999
+Lamborghini,Urus,2023,4,Petrol,Manual,21006,22,650,218709
+Porsche,Cayenne,2021,3,Petrol,Manual,10490,26,570,95097
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,23720,26,570,97723
+Toyota,Land Cruiser,2023,3.3,Diesel,Manual,28105,27,560,84834
+BMW,M5 CS,2022,4.4,Petrol,Automatic,33595,25,600,167746
+Toyota,Land Cruiser,2019,3.3,Diesel,Semi-Automatic,32335,27,560,89674
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,25887,45,320,51385
+Land Rover,Range Rover Sport,2022,3,Diesel,Semi-Automatic,24877,28,580,90440
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,34607,28,580,91264
+Toyota,Land Cruiser,2019,3.3,Diesel,Manual,26536,27,560,86237
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,10984,45,320,48331
+Lamborghini,Urus,2021,4,Petrol,Automatic,25164,22,650,216224
+Volvo,S90,2021,2,Hybrid,Manual,26625,45,320,51770
+Lamborghini,Urus,2021,4,Petrol,Automatic,14990,22,650,219757
+BMW,M5 CS,2023,4.4,Petrol,Automatic,39842,25,600,160839
+BMW,M5 CS,2023,4.4,Petrol,Automatic,32609,25,600,164131
+Lamborghini,Urus,2021,4,Petrol,Manual,33524,22,650,222678
+Lamborghini,Urus,2021,4,Petrol,Automatic,30850,22,650,222176
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,32302,28,580,93578
+Mercedes-Benz,G Wagon,2021,4,Petrol,Automatic,36629,20,630,184756
+Volvo,S90,2019,2,Hybrid,Semi-Automatic,39548,45,320,50078
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,32884,20,630,177350
+Lamborghini,Urus,2022,4,Petrol,Automatic,15096,22,650,217251
+Lamborghini,Urus,2021,4,Petrol,Automatic,39574,22,650,223931
+BMW,M5 CS,2022,4.4,Petrol,Automatic,5447,25,600,166682
+Toyota,Land Cruiser,2021,3.3,Diesel,Manual,6886,27,560,85284
+BMW,M5 CS,2019,4.4,Petrol,Manual,12891,25,600,169055
+Toyota,Land Cruiser,2022,3.3,Diesel,Manual,16881,27,560,86851
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,38509,20,630,181595
+Land Rover,Range Rover Sport,2023,3,Diesel,Semi-Automatic,30389,28,580,90012
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,21697,28,580,99711
+Toyota,Land Cruiser,2022,3.3,Diesel,Semi-Automatic,13249,27,560,87296
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,25350,26,570,98864
+Lamborghini,Urus,2020,4,Petrol,Manual,15444,22,650,221088
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,8693,26,570,96992
+Lamborghini,Urus,2019,4,Petrol,Automatic,39498,22,650,219090
+Land Rover,Range Rover Sport,2020,3,Diesel,Manual,26633,28,580,98091
+Land Rover,Range Rover Sport,2022,3,Diesel,Semi-Automatic,14978,28,580,99344
+Porsche,Cayenne,2020,3,Petrol,Manual,30496,26,570,98719
+Mercedes-Benz,G Wagon,2022,4,Petrol,Manual,29698,20,630,180676
+Land Rover,Range Rover Sport,2022,3,Diesel,Manual,12943,28,580,99246
+BMW,M5 CS,2020,4.4,Petrol,Automatic,28853,25,600,165326
+Land Rover,Range Rover Sport,2021,3,Diesel,Manual,22040,28,580,97722
+Land Rover,Range Rover Sport,2021,3,Diesel,Manual,18322,28,580,94969
+BMW,M5 CS,2022,4.4,Petrol,Automatic,33899,25,600,168100
+Volvo,S90,2022,2,Hybrid,Manual,30054,45,320,50324
+Porsche,Cayenne,2022,3,Petrol,Manual,8240,26,570,93657
+Mercedes-Benz,G Wagon,2022,4,Petrol,Manual,19369,20,630,178954
+BMW,M5 CS,2020,4.4,Petrol,Manual,22924,25,600,168060
+Porsche,Cayenne,2019,3,Petrol,Manual,22946,26,570,95207
+BMW,M5 CS,2023,4.4,Petrol,Automatic,20147,25,600,160799
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,30379,26,570,102331
+Toyota,Land Cruiser,2022,3.3,Diesel,Manual,5915,27,560,91506
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,35576,28,580,95601
+Land Rover,Range Rover Sport,2023,3,Diesel,Manual,35076,28,580,97693
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,10557,20,630,180013
+Mercedes-Benz,G Wagon,2023,4,Petrol,Manual,7003,20,630,175523
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,34778,20,630,184939
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,11166,26,570,93958
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,32456,26,570,99661
+Volvo,S90,2019,2,Hybrid,Manual,26274,45,320,48657
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,18061,26,570,97337
+BMW,M5 CS,2019,4.4,Petrol,Automatic,18643,25,600,168173
+Mercedes-Benz,G Wagon,2023,4,Petrol,Manual,17176,20,630,177693
+Land Rover,Range Rover Sport,2021,3,Diesel,Manual,6439,28,580,95003
+Toyota,Land Cruiser,2021,3.3,Diesel,Semi-Automatic,33627,27,560,87492
+Lamborghini,Urus,2023,4,Petrol,Automatic,22995,22,650,224782
+Lamborghini,Urus,2019,4,Petrol,Automatic,31449,22,650,219385
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,29762,26,570,96384
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,28284,28,580,97584
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,39989,26,570,98723
+Toyota,Land Cruiser,2023,3.3,Diesel,Manual,23516,27,560,91331
+BMW,M5 CS,2021,4.4,Petrol,Automatic,17760,25,600,162383
+Toyota,Land Cruiser,2022,3.3,Diesel,Semi-Automatic,21886,27,560,84868
+Lamborghini,Urus,2020,4,Petrol,Manual,31428,22,650,221811
+Toyota,Land Cruiser,2020,3.3,Diesel,Semi-Automatic,10905,27,560,88399
+Toyota,Land Cruiser,2022,3.3,Diesel,Semi-Automatic,21777,27,560,83675
+Volvo,S90,2021,2,Hybrid,Semi-Automatic,36674,45,320,48056
+Lamborghini,Urus,2020,4,Petrol,Automatic,22027,22,650,217784
+Land Rover,Range Rover Sport,2022,3,Diesel,Semi-Automatic,18096,28,580,96099
+BMW,M5 CS,2020,4.4,Petrol,Automatic,13423,25,600,162492
+BMW,M5 CS,2022,4.4,Petrol,Automatic,17978,25,600,168190
+Mercedes-Benz,G Wagon,2021,4,Petrol,Automatic,21193,20,630,183370
+Porsche,Cayenne,2021,3,Petrol,Manual,5090,26,570,94967
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,24621,26,570,98025
+Lamborghini,Urus,2021,4,Petrol,Automatic,15028,22,650,215492
+BMW,M5 CS,2023,4.4,Petrol,Automatic,27821,25,600,168239
+Porsche,Cayenne,2021,3,Petrol,Manual,6742,26,570,98406
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,31054,28,580,98171
+BMW,M5 CS,2020,4.4,Petrol,Automatic,31246,25,600,160448
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,11139,26,570,99735
+Mercedes-Benz,G Wagon,2021,4,Petrol,Automatic,31609,20,630,180062
+Mercedes-Benz,G Wagon,2021,4,Petrol,Automatic,37434,20,630,184492
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,9512,28,580,96284
+Toyota,Land Cruiser,2020,3.3,Diesel,Manual,39766,27,560,90578
+BMW,M5 CS,2020,4.4,Petrol,Automatic,27046,25,600,168052
+Porsche,Cayenne,2022,3,Petrol,Manual,22220,26,570,97856
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,11680,27,560,85613
+BMW,M5 CS,2019,4.4,Petrol,Automatic,29069,25,600,166233
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,18222,26,570,96952
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,34021,26,570,96147
+Land Rover,Range Rover Sport,2021,3,Diesel,Manual,31793,28,580,94459
+Lamborghini,Urus,2020,4,Petrol,Manual,32062,22,650,224659
+Toyota,Land Cruiser,2020,3.3,Diesel,Semi-Automatic,6110,27,560,89444
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,14217,26,570,102727
+BMW,M5 CS,2021,4.4,Petrol,Automatic,35323,25,600,168237
+Volvo,S90,2021,2,Hybrid,Semi-Automatic,11725,45,320,55869
+BMW,M5 CS,2022,4.4,Petrol,Manual,14451,25,600,161929
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,20629,27,560,83847
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,9727,26,570,98889
+Mercedes-Benz,G Wagon,2023,4,Petrol,Manual,10035,20,630,180676
+BMW,M5 CS,2020,4.4,Petrol,Automatic,35319,25,600,167058
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,23545,20,630,177621
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,32452,20,630,184753
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,31942,28,580,95034
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,22169,26,570,98592
+BMW,M5 CS,2019,4.4,Petrol,Automatic,27201,25,600,160585
+Toyota,Land Cruiser,2021,3.3,Diesel,Semi-Automatic,5701,27,560,86874
+Lamborghini,Urus,2022,4,Petrol,Manual,22578,22,650,222698
+BMW,M5 CS,2019,4.4,Petrol,Automatic,26509,25,600,162663
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,9175,45,320,56646
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,5489,20,630,180973
+Lamborghini,Urus,2022,4,Petrol,Automatic,23818,22,650,219453
+Toyota,Land Cruiser,2020,3.3,Diesel,Manual,27247,27,560,82333
+Porsche,Cayenne,2019,3,Petrol,Manual,15653,26,570,98499
+Mercedes-Benz,G Wagon,2022,4,Petrol,Manual,19982,20,630,175497
+BMW,M5 CS,2021,4.4,Petrol,Automatic,20510,25,600,164932
+Toyota,Land Cruiser,2021,3.3,Diesel,Semi-Automatic,15272,27,560,87194
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,35934,28,580,90599
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,26708,20,630,176613
+Toyota,Land Cruiser,2021,3.3,Diesel,Semi-Automatic,20485,27,560,90827
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,30810,45,320,55117
+BMW,M5 CS,2022,4.4,Petrol,Automatic,32538,25,600,169612
+Mercedes-Benz,G Wagon,2019,4,Petrol,Automatic,30975,20,630,178637
+Lamborghini,Urus,2022,4,Petrol,Automatic,15059,22,650,223936
+Mercedes-Benz,G Wagon,2021,4,Petrol,Automatic,13462,20,630,180399
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,10879,27,560,83309
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,21050,28,580,99360
+Toyota,Land Cruiser,2021,3.3,Diesel,Semi-Automatic,14263,27,560,91292
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,25702,27,560,87822
+Mercedes-Benz,G Wagon,2021,4,Petrol,Automatic,26859,20,630,178582
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,31212,45,320,50407
+Mercedes-Benz,G Wagon,2021,4,Petrol,Manual,7892,20,630,184847
+Lamborghini,Urus,2019,4,Petrol,Manual,17350,22,650,223085
+Lamborghini,Urus,2022,4,Petrol,Automatic,25445,22,650,215781
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,10217,45,320,52939
+Lamborghini,Urus,2021,4,Petrol,Manual,23227,22,650,217596
+Lamborghini,Urus,2023,4,Petrol,Automatic,31143,22,650,224085
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,14929,28,580,94960
+Lamborghini,Urus,2022,4,Petrol,Automatic,38313,22,650,216312
+Lamborghini,Urus,2019,4,Petrol,Manual,37634,22,650,220131
+Lamborghini,Urus,2021,4,Petrol,Automatic,14433,22,650,221663
+Lamborghini,Urus,2022,4,Petrol,Manual,23162,22,650,223436
+BMW,M5 CS,2022,4.4,Petrol,Automatic,35055,25,600,162023
+BMW,M5 CS,2021,4.4,Petrol,Automatic,24832,25,600,162533
+Land Rover,Range Rover Sport,2019,3,Diesel,Manual,36771,28,580,92380
+Land Rover,Range Rover Sport,2022,3,Diesel,Semi-Automatic,23493,28,580,96762
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,23128,28,580,99702
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,32322,28,580,95362
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,5589,26,570,99115
+Land Rover,Range Rover Sport,2022,3,Diesel,Semi-Automatic,28351,28,580,91864
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,15614,20,630,183294
+Mercedes-Benz,G Wagon,2021,4,Petrol,Manual,32870,20,630,179518
+Land Rover,Range Rover Sport,2020,3,Diesel,Manual,33657,28,580,95447
+Toyota,Land Cruiser,2020,3.3,Diesel,Manual,12599,27,560,87798
+Lamborghini,Urus,2020,4,Petrol,Automatic,12402,22,650,215675
+Volvo,S90,2019,2,Hybrid,Semi-Automatic,21517,45,320,51964
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,13288,28,580,99930
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,7390,26,570,102152
+Lamborghini,Urus,2021,4,Petrol,Automatic,34544,22,650,222434
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,28247,28,580,93939
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,10367,26,570,102179
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,12926,27,560,84722
+Land Rover,Range Rover Sport,2019,3,Diesel,Manual,39845,28,580,99249
+Mercedes-Benz,G Wagon,2022,4,Petrol,Manual,19010,20,630,177031
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,13761,28,580,98361
+Volvo,S90,2020,2,Hybrid,Semi-Automatic,28357,45,320,52830
+Lamborghini,Urus,2020,4,Petrol,Automatic,25214,22,650,219243
+Mercedes-Benz,G Wagon,2023,4,Petrol,Manual,23228,20,630,175774
+Land Rover,Range Rover Sport,2022,3,Diesel,Manual,21760,28,580,92750
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,27501,28,580,93208
+Volvo,S90,2020,2,Hybrid,Manual,9300,45,320,56035
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,19046,45,320,49438
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,16611,27,560,84037
+Toyota,Land Cruiser,2020,3.3,Diesel,Semi-Automatic,21736,27,560,85710
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,37528,28,580,96874
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,13304,26,570,93277
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,14631,20,630,176519
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,14402,28,580,95187
+Volvo,S90,2019,2,Hybrid,Semi-Automatic,25751,45,320,51925
+Mercedes-Benz,G Wagon,2020,4,Petrol,Manual,25796,20,630,182461
+Land Rover,Range Rover Sport,2022,3,Diesel,Semi-Automatic,31889,28,580,97866
+Volvo,S90,2021,2,Hybrid,Manual,16600,45,320,54163
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,11126,28,580,99688
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,31566,45,320,51400
+Volvo,S90,2021,2,Hybrid,Semi-Automatic,16777,45,320,48629
+Volvo,S90,2020,2,Hybrid,Semi-Automatic,16675,45,320,51764
+Lamborghini,Urus,2020,4,Petrol,Manual,25289,22,650,216271
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,13538,20,630,183067
+Toyota,Land Cruiser,2023,3.3,Diesel,Manual,14729,27,560,91562
+Volvo,S90,2021,2,Hybrid,Semi-Automatic,27435,45,320,49825
+BMW,M5 CS,2022,4.4,Petrol,Manual,34909,25,600,169149
+Toyota,Land Cruiser,2022,3.3,Diesel,Semi-Automatic,33653,27,560,86979
+BMW,M5 CS,2021,4.4,Petrol,Automatic,7408,25,600,164612
+BMW,M5 CS,2020,4.4,Petrol,Automatic,27335,25,600,164813
+Lamborghini,Urus,2022,4,Petrol,Automatic,16849,22,650,217149
+Mercedes-Benz,G Wagon,2021,4,Petrol,Automatic,19292,20,630,184593
+BMW,M5 CS,2023,4.4,Petrol,Manual,7160,25,600,168003
+Volvo,S90,2020,2,Hybrid,Manual,37662,45,320,56968
+Volvo,S90,2020,2,Hybrid,Semi-Automatic,24057,45,320,52564
+Land Rover,Range Rover Sport,2023,3,Diesel,Semi-Automatic,29621,28,580,98804
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,16182,20,630,180053
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,5781,28,580,91729
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,22137,26,570,101784
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,16321,26,570,102503
+Lamborghini,Urus,2020,4,Petrol,Automatic,11161,22,650,217279
+BMW,M5 CS,2020,4.4,Petrol,Automatic,10254,25,600,163890
+Mercedes-Benz,G Wagon,2023,4,Petrol,Manual,36951,20,630,182282
+Lamborghini,Urus,2019,4,Petrol,Automatic,32975,22,650,220025
+BMW,M5 CS,2022,4.4,Petrol,Manual,22445,25,600,165737
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,34330,26,570,95719
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,7697,28,580,98535
+BMW,M5 CS,2019,4.4,Petrol,Automatic,16232,25,600,162657
+Mercedes-Benz,G Wagon,2020,4,Petrol,Manual,27573,20,630,178155
+Mercedes-Benz,G Wagon,2019,4,Petrol,Automatic,20631,20,630,181121
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,37020,26,570,93008
+BMW,M5 CS,2020,4.4,Petrol,Automatic,33750,25,600,167048
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,23609,26,570,97337
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,35812,26,570,95631
+BMW,M5 CS,2020,4.4,Petrol,Automatic,25698,25,600,166795
+BMW,M5 CS,2020,4.4,Petrol,Automatic,16211,25,600,166196
+Mercedes-Benz,G Wagon,2022,4,Petrol,Manual,17895,20,630,175917
+Lamborghini,Urus,2023,4,Petrol,Manual,17871,22,650,224178
+BMW,M5 CS,2019,4.4,Petrol,Automatic,23959,25,600,165835
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,34568,45,320,55435
+Porsche,Cayenne,2023,3,Petrol,Manual,39444,26,570,94230
+Land Rover,Range Rover Sport,2020,3,Diesel,Manual,32120,28,580,99494
+Toyota,Land Cruiser,2019,3.3,Diesel,Semi-Automatic,29729,27,560,84195
+Lamborghini,Urus,2019,4,Petrol,Manual,35036,22,650,224872
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,20782,28,580,93440
+Volvo,S90,2021,2,Hybrid,Semi-Automatic,25093,45,320,49170
+BMW,M5 CS,2023,4.4,Petrol,Manual,35349,25,600,161879
+Toyota,Land Cruiser,2020,3.3,Diesel,Semi-Automatic,37861,27,560,82800
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,28704,27,560,87882
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,7131,27,560,83333
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,14102,28,580,99778
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,26125,45,320,52385
+Mercedes-Benz,G Wagon,2021,4,Petrol,Manual,12090,20,630,181761
+Mercedes-Benz,G Wagon,2022,4,Petrol,Manual,11735,20,630,179435
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,35948,27,560,84940
+Toyota,Land Cruiser,2019,3.3,Diesel,Manual,33462,27,560,90217
+Mercedes-Benz,G Wagon,2020,4,Petrol,Manual,20732,20,630,179353
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,12997,20,630,175789
+Lamborghini,Urus,2020,4,Petrol,Automatic,36637,22,650,222868
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,12154,28,580,94811
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,13373,26,570,100509
+Toyota,Land Cruiser,2020,3.3,Diesel,Semi-Automatic,6713,27,560,87863
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,10757,28,580,92859
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,29014,26,570,99468
+BMW,M5 CS,2020,4.4,Petrol,Automatic,33747,25,600,166720
+BMW,M5 CS,2020,4.4,Petrol,Manual,32635,25,600,160661
+Toyota,Land Cruiser,2021,3.3,Diesel,Semi-Automatic,12117,27,560,82761
+Lamborghini,Urus,2020,4,Petrol,Automatic,5653,22,650,215836
+Mercedes-Benz,G Wagon,2019,4,Petrol,Automatic,14104,20,630,176813
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,23980,20,630,181621
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,11410,26,570,100227
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,38223,26,570,94715
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,12513,20,630,183534
+Toyota,Land Cruiser,2021,3.3,Diesel,Semi-Automatic,30162,27,560,89529
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,29476,26,570,96209
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,20559,26,570,102270
+Porsche,Cayenne,2021,3,Petrol,Manual,23173,26,570,96690
+BMW,M5 CS,2022,4.4,Petrol,Automatic,6230,25,600,169218
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,18076,20,630,181757
+Lamborghini,Urus,2021,4,Petrol,Manual,39345,22,650,223005
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,21442,26,570,93445
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,39501,28,580,94843
+Lamborghini,Urus,2023,4,Petrol,Automatic,11000,22,650,220434
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,24055,20,630,178151
+BMW,M5 CS,2022,4.4,Petrol,Automatic,17065,25,600,162235
+Volvo,S90,2021,2,Hybrid,Semi-Automatic,14950,45,320,52122
+Lamborghini,Urus,2023,4,Petrol,Automatic,8673,22,650,220081
+Volvo,S90,2019,2,Hybrid,Manual,30816,45,320,52834
+Toyota,Land Cruiser,2022,3.3,Diesel,Semi-Automatic,32652,27,560,88900
+Volvo,S90,2021,2,Hybrid,Semi-Automatic,29281,45,320,54731
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,18963,20,630,176080
+Mercedes-Benz,G Wagon,2019,4,Petrol,Manual,11804,20,630,180678
+Toyota,Land Cruiser,2019,3.3,Diesel,Manual,36008,27,560,85411
+Lamborghini,Urus,2021,4,Petrol,Automatic,30447,22,650,220760
+Lamborghini,Urus,2021,4,Petrol,Automatic,10240,22,650,216522
+Toyota,Land Cruiser,2022,3.3,Diesel,Manual,22485,27,560,86095
+Porsche,Cayenne,2019,3,Petrol,Manual,12667,26,570,101435
+Porsche,Cayenne,2022,3,Petrol,Manual,6253,26,570,95978
+Volvo,S90,2021,2,Hybrid,Manual,21321,45,320,55340
+Toyota,Land Cruiser,2022,3.3,Diesel,Manual,20176,27,560,89035
+Volvo,S90,2020,2,Hybrid,Semi-Automatic,17893,45,320,54970
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,37913,45,320,52489
+BMW,M5 CS,2020,4.4,Petrol,Automatic,14827,25,600,166194
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,36184,45,320,54315
+Toyota,Land Cruiser,2023,3.3,Diesel,Manual,36258,27,560,89699
+Toyota,Land Cruiser,2019,3.3,Diesel,Semi-Automatic,14939,27,560,87893
+Lamborghini,Urus,2021,4,Petrol,Manual,30724,22,650,221204
+Volvo,S90,2020,2,Hybrid,Manual,37516,45,320,53469
+BMW,M5 CS,2021,4.4,Petrol,Manual,30363,25,600,166473
+BMW,M5 CS,2019,4.4,Petrol,Manual,8821,25,600,161097
+Porsche,Cayenne,2021,3,Petrol,Manual,15162,26,570,102900
+Toyota,Land Cruiser,2020,3.3,Diesel,Manual,23053,27,560,84412
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,21782,45,320,56953
+Lamborghini,Urus,2019,4,Petrol,Automatic,5469,22,650,218270
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,35845,26,570,102356
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,8826,26,570,99859
+Lamborghini,Urus,2023,4,Petrol,Manual,38336,22,650,218143
+Toyota,Land Cruiser,2020,3.3,Diesel,Semi-Automatic,9511,27,560,89510
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,25908,28,580,97367
+Lamborghini,Urus,2021,4,Petrol,Automatic,29222,22,650,221592
+Volvo,S90,2019,2,Hybrid,Semi-Automatic,22370,45,320,52464
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,5360,26,570,93335
+BMW,M5 CS,2021,4.4,Petrol,Manual,34821,25,600,169817
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,36230,20,630,184106
+Lamborghini,Urus,2023,4,Petrol,Automatic,28668,22,650,215188
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,21058,28,580,90284
+BMW,M5 CS,2023,4.4,Petrol,Automatic,9133,25,600,160525
+Volvo,S90,2020,2,Hybrid,Manual,20216,45,320,55161
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,18768,28,580,95253
+Lamborghini,Urus,2020,4,Petrol,Automatic,11595,22,650,221548
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,23585,28,580,93117
+BMW,M5 CS,2022,4.4,Petrol,Manual,35083,25,600,162539
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,5935,45,320,50872
+Lamborghini,Urus,2020,4,Petrol,Automatic,7084,22,650,224065
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,11122,20,630,177981
+Lamborghini,Urus,2022,4,Petrol,Automatic,33665,22,650,224090
+BMW,M5 CS,2020,4.4,Petrol,Manual,30859,25,600,168789
+BMW,M5 CS,2021,4.4,Petrol,Manual,22860,25,600,167946
+Volvo,S90,2020,2,Hybrid,Semi-Automatic,34815,45,320,52894
+Toyota,Land Cruiser,2021,3.3,Diesel,Semi-Automatic,31652,27,560,85720
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,38708,20,630,185000
+Lamborghini,Urus,2022,4,Petrol,Automatic,38793,22,650,217333
+Volvo,S90,2019,2,Hybrid,Semi-Automatic,18360,45,320,56079
+Volvo,S90,2020,2,Hybrid,Semi-Automatic,14547,45,320,53427
+BMW,M5 CS,2019,4.4,Petrol,Automatic,22125,25,600,168230
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,6386,20,630,183407
+Porsche,Cayenne,2021,3,Petrol,Manual,9657,26,570,97614
+Lamborghini,Urus,2022,4,Petrol,Automatic,27807,22,650,216418
+Lamborghini,Urus,2022,4,Petrol,Automatic,14828,22,650,220522
+Mercedes-Benz,G Wagon,2020,4,Petrol,Manual,17893,20,630,178809
+Volvo,S90,2020,2,Hybrid,Semi-Automatic,19821,45,320,52351
+Lamborghini,Urus,2019,4,Petrol,Automatic,30518,22,650,220498
+Mercedes-Benz,G Wagon,2023,4,Petrol,Manual,36887,20,630,176595
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,27664,28,580,96396
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,21292,28,580,94038
+Volvo,S90,2019,2,Hybrid,Semi-Automatic,24817,45,320,50255
+Volvo,S90,2021,2,Hybrid,Manual,8835,45,320,52122
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,28770,45,320,56103
+Volvo,S90,2019,2,Hybrid,Semi-Automatic,31124,45,320,52224
+Mercedes-Benz,G Wagon,2021,4,Petrol,Manual,14619,20,630,176496
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,35809,28,580,94538
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,37609,20,630,182736
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,15404,26,570,97469
+Toyota,Land Cruiser,2020,3.3,Diesel,Manual,35113,27,560,86515
+BMW,M5 CS,2020,4.4,Petrol,Automatic,11359,25,600,168007
+Land Rover,Range Rover Sport,2022,3,Diesel,Semi-Automatic,9287,28,580,98657
+Land Rover,Range Rover Sport,2020,3,Diesel,Manual,7145,28,580,91848
+BMW,M5 CS,2023,4.4,Petrol,Automatic,28234,25,600,168645
+Lamborghini,Urus,2019,4,Petrol,Automatic,31676,22,650,216925
+Mercedes-Benz,G Wagon,2019,4,Petrol,Manual,36794,20,630,178791
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,35318,45,320,50315
+Mercedes-Benz,G Wagon,2019,4,Petrol,Automatic,31796,20,630,182820
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,31118,20,630,178760
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,15778,45,320,48266
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,27873,20,630,178444
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,13324,45,320,52030
+Lamborghini,Urus,2020,4,Petrol,Automatic,24929,22,650,222916
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,17202,20,630,180616
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,27894,26,570,93745
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,7483,28,580,96493
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,27875,45,320,47217
+Land Rover,Range Rover Sport,2019,3,Diesel,Manual,8078,28,580,98230
+BMW,M5 CS,2022,4.4,Petrol,Automatic,17254,25,600,164260
+BMW,M5 CS,2022,4.4,Petrol,Manual,5717,25,600,164806
+Land Rover,Range Rover Sport,2020,3,Diesel,Manual,14828,28,580,91368
+Lamborghini,Urus,2019,4,Petrol,Manual,35325,22,650,216416
+Land Rover,Range Rover Sport,2020,3,Diesel,Semi-Automatic,33180,28,580,94564
+Land Rover,Range Rover Sport,2019,3,Diesel,Semi-Automatic,27680,28,580,99921
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,32637,28,580,96446
+Porsche,Cayenne,2023,3,Petrol,Manual,17986,26,570,94160
+BMW,M5 CS,2020,4.4,Petrol,Manual,5751,25,600,167153
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,24228,26,570,96971
+Land Rover,Range Rover Sport,2020,3,Diesel,Manual,14287,28,580,92200
+BMW,M5 CS,2021,4.4,Petrol,Automatic,16967,25,600,168670
+BMW,M5 CS,2019,4.4,Petrol,Automatic,7586,25,600,162161
+Toyota,Land Cruiser,2022,3.3,Diesel,Semi-Automatic,39662,27,560,88512
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,16471,20,630,176785
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,13735,20,630,182850
+Porsche,Cayenne,2023,3,Petrol,Manual,20320,26,570,95779
+Lamborghini,Urus,2023,4,Petrol,Automatic,9850,22,650,216562
+Toyota,Land Cruiser,2020,3.3,Diesel,Semi-Automatic,34051,27,560,83859
+Land Rover,Range Rover Sport,2020,3,Diesel,Manual,25034,28,580,90076
+Mercedes-Benz,G Wagon,2021,4,Petrol,Automatic,38694,20,630,179193
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,7784,20,630,184602
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,31528,20,630,184213
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,22072,26,570,95706
+Toyota,Land Cruiser,2022,3.3,Diesel,Manual,20991,27,560,85351
+Lamborghini,Urus,2021,4,Petrol,Automatic,19987,22,650,217912
+Mercedes-Benz,G Wagon,2019,4,Petrol,Manual,17074,20,630,177205
+BMW,M5 CS,2021,4.4,Petrol,Automatic,26697,25,600,164087
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,9090,26,570,101932
+Mercedes-Benz,G Wagon,2019,4,Petrol,Automatic,24731,20,630,180130
+Mercedes-Benz,G Wagon,2022,4,Petrol,Automatic,26435,20,630,179245
+BMW,M5 CS,2021,4.4,Petrol,Manual,16628,25,600,161826
+Lamborghini,Urus,2023,4,Petrol,Automatic,39653,22,650,223285
+Mercedes-Benz,G Wagon,2020,4,Petrol,Manual,33566,20,630,176214
+BMW,M5 CS,2022,4.4,Petrol,Automatic,36197,25,600,167978
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,31756,27,560,83492
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,13824,26,570,100443
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,38312,45,320,48298
+Toyota,Land Cruiser,2020,3.3,Diesel,Semi-Automatic,13475,27,560,88448
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,34142,28,580,92356
+BMW,M5 CS,2023,4.4,Petrol,Automatic,34935,25,600,164397
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,22319,45,320,47256
+Lamborghini,Urus,2019,4,Petrol,Automatic,24734,22,650,223006
+Porsche,Cayenne,2020,3,Petrol,Manual,28131,26,570,95391
+Toyota,Land Cruiser,2022,3.3,Diesel,Manual,33598,27,560,91303
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,37590,26,570,101569
+Mercedes-Benz,G Wagon,2020,4,Petrol,Automatic,6348,20,630,180712
+BMW,M5 CS,2020,4.4,Petrol,Automatic,34286,25,600,168360
+Volvo,S90,2022,2,Hybrid,Manual,24345,45,320,48742
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,9814,26,570,101523
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,6973,28,580,93823
+Land Rover,Range Rover Sport,2023,3,Diesel,Semi-Automatic,22627,28,580,95516
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,28595,45,320,51545
+Lamborghini,Urus,2019,4,Petrol,Automatic,27391,22,650,215937
+Land Rover,Range Rover Sport,2022,3,Diesel,Manual,27063,28,580,95931
+Land Rover,Range Rover Sport,2021,3,Diesel,Semi-Automatic,25918,28,580,93397
+Lamborghini,Urus,2021,4,Petrol,Automatic,22075,22,650,215618
+Mercedes-Benz,G Wagon,2019,4,Petrol,Manual,7887,20,630,180731
+Mercedes-Benz,G Wagon,2020,4,Petrol,Manual,39640,20,630,178651
+Porsche,Cayenne,2020,3,Petrol,Semi-Automatic,24568,26,570,100059
+Lamborghini,Urus,2019,4,Petrol,Automatic,15785,22,650,221034
+Toyota,Land Cruiser,2022,3.3,Diesel,Semi-Automatic,30791,27,560,85164
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,27627,26,570,98556
+Lamborghini,Urus,2019,4,Petrol,Manual,7965,22,650,218359
+Volvo,S90,2022,2,Hybrid,Semi-Automatic,38866,45,320,49805
+Porsche,Cayenne,2020,3,Petrol,Manual,23224,26,570,98563
+BMW,M5 CS,2020,4.4,Petrol,Automatic,26848,25,600,162033
+BMW,M5 CS,2023,4.4,Petrol,Automatic,18627,25,600,164652
+Porsche,Cayenne,2020,3,Petrol,Manual,37778,26,570,93332
+Mercedes-Benz,G Wagon,2023,4,Petrol,Automatic,37551,20,630,180286
+Mercedes-Benz,G Wagon,2019,4,Petrol,Manual,30485,20,630,180561
+Porsche,Cayenne,2021,3,Petrol,Semi-Automatic,25538,26,570,94751
+Toyota,Land Cruiser,2019,3.3,Diesel,Manual,35902,27,560,87193
+Porsche,Cayenne,2022,3,Petrol,Semi-Automatic,30180,26,570,93133
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,13976,27,560,84555
+Land Rover,Range Rover Sport,2023,3,Diesel,Semi-Automatic,38286,28,580,98466
+Porsche,Cayenne,2020,3,Petrol,Manual,38590,26,570,94782
+Lamborghini,Urus,2021,4,Petrol,Automatic,14125,22,650,221446
+Land Rover,Range Rover Sport,2019,3,Diesel,Manual,36351,28,580,90912
+BMW,M5 CS,2020,4.4,Petrol,Automatic,26253,25,600,164465
+Porsche,Cayenne,2023,3,Petrol,Semi-Automatic,12834,26,570,99711
+Lamborghini,Urus,2020,4,Petrol,Automatic,33877,22,650,218743
+Lamborghini,Urus,2019,4,Petrol,Automatic,38702,22,650,216623
+Volvo,S90,2022,2,Hybrid,Manual,30129,45,320,54981
+Mercedes-Benz,G Wagon,2019,4,Petrol,Manual,24737,20,630,178162
+Toyota,Land Cruiser,2023,3.3,Diesel,Semi-Automatic,12555,27,560,86973
+Volvo,S90,2023,2,Hybrid,Semi-Automatic,11287,45,320,49328
+Volvo,S90,2019,2,Hybrid,Manual,25352,45,320,51557
+BMW,M5 CS,2021,4.4,Petrol,Manual,38687,25,600,163879
+Mercedes-Benz,G Wagon,2019,4,Petrol,Automatic,21515,20,630,175630
+Land Rover,Range Rover Sport,2023,3,Diesel,Manual,12724,28,580,95981
+Porsche,Cayenne,2019,3,Petrol,Semi-Automatic,10894,26,570,93322
+BMW,M5 CS,2020,4.4,Petrol,Automatic,5055,25,600,167800
